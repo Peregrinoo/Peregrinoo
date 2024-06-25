@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Chaves</h1>
-<h3 align="center">a young programmer with passion for computing and software development</h3>
+<h3 align="center">💻 Apaixonado por criar experiências digitais intuitivas e visualmente atraentes, unindo design e tecnologia para construir soluções inovadoras</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peregrinoo&label=Profile%20views&color=0e75b6&style=flat" alt="peregrinoo" /> </p>
 
