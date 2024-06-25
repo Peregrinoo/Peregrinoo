@@ -8,6 +8,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peregrinoo&show_icons=true&locale=en&layout=compact" alt="peregrinoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peregrinoo&show_icons=true&locale=en" alt="peregrinoo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peregrinoo&" alt="peregrinoo" /></p>
